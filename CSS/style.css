@@ -11,3 +11,8 @@ h2 {
     border-bottom: 1px solid #333333;
     padding-bottom: 5px;
 }
+
+.favorite {
+    color: #cc3300;
+    font-weight: bold;
+}
