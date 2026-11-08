@@ -16,3 +16,7 @@ h2 {
     color: #cc3300;
     font-weight: bold;
 }
+
+table, th, td {
+    border: 1px solid #333333;
+}
