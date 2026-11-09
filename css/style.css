@@ -4,7 +4,7 @@ body {
 
 h1 {
     font-size: 32px;
-    color: red;
+    color: white;
 }
 
 h2 {
@@ -34,4 +34,11 @@ nav a {
     background-color: #ffffff;
     border-radius: 999px;
     color: #333333;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+    background-color: #87CEEB;
 }
